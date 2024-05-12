@@ -1,8 +1,7 @@
-# ArvanCloud IP white-list
+# White-List CDN's IPs in firewall
 
-![logo](.github/logo.svg)
 
-This project modifies your firewall configuration to allow ArvanCloud's CDN network access to your server.
+This project modifies your firewall configuration to allow many CDN's IP network access to your server.
 
 You can also schedule this script to update the firewall rules automatically.
 

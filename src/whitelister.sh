@@ -1,4 +1,15 @@
 #!/usr/bin/env bash
+# -*- coding: utf-8 -*-
+# Auther: ArianOmrani - https://github.com/arian24b/
+# git repository: https://github.com/arian24b/server_management_public
+
+set -e
+# set -x
+
+clear
+
+# Load Template
+source <(curl -SskL https://github.com/arian24b/server_management_public/raw/main/template.sh)
 
 # color codes
 green='\033[0;32m'
